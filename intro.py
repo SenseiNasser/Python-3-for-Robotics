@@ -9,3 +9,17 @@
 # you want to become a ROS developer, you need to learn Python and C++
 
 # This files is exersices for learning Python with ROS
+
+
+# Learning Goals :
+# How to store data into variables
+# How to operate with the data in the variables
+# How to change behavior based on conditions
+# How to create methods that can be called from other places of the code
+# How to encapsulate the code into classes so you can have clean and robust code
+
+# Robot Used with these Exercises Summit XL & Turtlebot
+
+
+
+
